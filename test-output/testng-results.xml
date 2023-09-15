@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-15T17:55:16 IST" name="Default suite" finished-at="2023-09-15T17:55:16 IST" duration-ms="70">
+    <groups>
+    </groups>
+    <test started-at="2023-09-15T17:55:16 IST" name="Default test" finished-at="2023-09-15T17:55:16 IST" duration-ms="70">
+      <class name="com.mAadhar.testing.LoginServiceTest">
+        <test-method signature="signInTest()[pri:0, instance:com.mAadhar.testing.LoginServiceTest@1649b0e6]" started-at="2023-09-15T17:55:16 IST" name="signInTest" finished-at="2023-09-15T17:55:16 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+        <test-method signature="signUpTest()[pri:0, instance:com.mAadhar.testing.LoginServiceTest@1649b0e6]" started-at="2023-09-15T17:55:16 IST" name="signUpTest" finished-at="2023-09-15T17:55:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpTest -->
+      </class> <!-- com.mAadhar.testing.LoginServiceTest -->
+      <class name="com.mAadhar.testing.RequestServiceTest">
+        <test-method signature="AllAadhars()[pri:0, instance:com.mAadhar.testing.RequestServiceTest@19d481b]" started-at="2023-09-15T17:55:16 IST" name="AllAadhars" finished-at="2023-09-15T17:55:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AllAadhars -->
+        <test-method signature="ApplyAadharTest()[pri:0, instance:com.mAadhar.testing.RequestServiceTest@19d481b]" started-at="2023-09-15T17:55:16 IST" name="ApplyAadharTest" finished-at="2023-09-15T17:55:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ApplyAadharTest -->
+        <test-method signature="getAllRequestsTest()[pri:0, instance:com.mAadhar.testing.RequestServiceTest@19d481b]" started-at="2023-09-15T17:55:16 IST" name="getAllRequestsTest" finished-at="2023-09-15T17:55:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllRequestsTest -->
+        <test-method signature="viewmyAdharTest()[pri:0, instance:com.mAadhar.testing.RequestServiceTest@19d481b]" started-at="2023-09-15T17:55:16 IST" name="viewmyAdharTest" finished-at="2023-09-15T17:55:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewmyAdharTest -->
+      </class> <!-- com.mAadhar.testing.RequestServiceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
